@@ -63,8 +63,6 @@ int operacion(int a, int b, int* fun(int*, int*)) {
 
 int main()
 {
-    // Hola esto es un cambio
-
     int a = 4;
     int b = 5;
     double ar[5];
